@@ -1,2 +1,6 @@
 # proxy_pool
-get a pool of free proxies 
+Retrive a pool of free proxies.
+
+### source website
+http://www.gatherproxy.com/
+
